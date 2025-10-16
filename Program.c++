@@ -2,14 +2,14 @@
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
+#define REP_INDEX_1(x) for(int i=1;i<=x;i++)
+#define REP_INDEX_0(x) for(int i=0;i<x;i++)
+#define int long long
+#define uint unsigned long long
 
 int main()
 {
-	cout<<"Hello World"<<endl;
-	int[20][20] Suma;
-	for(int i=1;i<20;i++){
-		
-	} 
+	
 	return 0;
 }
 
